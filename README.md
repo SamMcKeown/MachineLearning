@@ -1,9 +1,9 @@
 # MachineLearning
 
-A series of Jupyter Notebooks that contain fundamentals of Machine Learning & Deep Learning in python using scikit-Learn, TensorFlow & Keras
+A series of Jupyter Notebooks that contain fundamentals of Machine Learning & Deep Learning in python using `scikit-Learn`, `TensorFlow` & `Keras`
 
-`Titanic`
-- A practical example of machine learning: using various machine learning techniques to predict the chance of survival of Titanic passengers using real historical data & `scikit-learn`
+## Contents
 
-`NueralNetworks`
-- Building neural networks using `TensorFlow` & `Keras`
+**FirstNueralNetwork**: Construct a simple neural network using `TensorFlow` & `Keras`
+
+**Predicting Titanic Survivors**: A practical example of a typical Binary classification problem & how to employ various Machine Learning techniques using `scikit-learn` to predict whether a passenger of the famous Titanic will survive or not
